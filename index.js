@@ -1,3 +1,4 @@
+//ODPALASZ PRZEZ "node index.js
 const x = require('./app.js');
 
 let y = 10;
